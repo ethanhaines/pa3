@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="760" height="420" fill="#ffffff" />
+<text x="380.00" y="18" font-size="18" text-anchor="middle" fill="#111827">HVLCS Runtime on 10 Inputs</text>
+<line x1="70" y1="360.00" x2="730" y2="360.00" stroke="#d7dce2" stroke-width="1" />
+<text x="60" y="364.00" font-size="11" text-anchor="end">0.0000</text>
+<line x1="70" y1="294.00" x2="730" y2="294.00" stroke="#d7dce2" stroke-width="1" />
+<text x="60" y="298.00" font-size="11" text-anchor="end">0.2049</text>
+<line x1="70" y1="228.00" x2="730" y2="228.00" stroke="#d7dce2" stroke-width="1" />
+<text x="60" y="232.00" font-size="11" text-anchor="end">0.4097</text>
+<line x1="70" y1="162.00" x2="730" y2="162.00" stroke="#d7dce2" stroke-width="1" />
+<text x="60" y="166.00" font-size="11" text-anchor="end">0.6146</text>
+<line x1="70" y1="96.00" x2="730" y2="96.00" stroke="#d7dce2" stroke-width="1" />
+<text x="60" y="100.00" font-size="11" text-anchor="end">0.8195</text>
+<line x1="70" y1="30.00" x2="730" y2="30.00" stroke="#d7dce2" stroke-width="1" />
+<text x="60" y="34.00" font-size="11" text-anchor="end">1.0243</text>
+<line x1="70" y1="30" x2="70" y2="360" stroke="#111827" stroke-width="2" />
+<line x1="70" y1="360" x2="730" y2="360" stroke="#111827" stroke-width="2" />
+<polyline fill="none" stroke="#0f766e" stroke-width="3" points="70.00,320.41 143.33,291.18 216.67,262.51 290.00,235.81 363.33,239.40 436.67,180.70 510.00,133.93 583.33,122.13 656.67,30.00 730.00,34.49" />
+<circle cx="70.00" cy="320.41" r="4" fill="#0f766e" />
+<circle cx="143.33" cy="291.18" r="4" fill="#0f766e" />
+<circle cx="216.67" cy="262.51" r="4" fill="#0f766e" />
+<circle cx="290.00" cy="235.81" r="4" fill="#0f766e" />
+<circle cx="363.33" cy="239.40" r="4" fill="#0f766e" />
+<circle cx="436.67" cy="180.70" r="4" fill="#0f766e" />
+<circle cx="510.00" cy="133.93" r="4" fill="#0f766e" />
+<circle cx="583.33" cy="122.13" r="4" fill="#0f766e" />
+<circle cx="656.67" cy="30.00" r="4" fill="#0f766e" />
+<circle cx="730.00" cy="34.49" r="4" fill="#0f766e" />
+<text x="70.00" y="400" font-size="11" text-anchor="middle">25/29</text>
+<text x="143.33" y="400" font-size="11" text-anchor="middle">30/34</text>
+<text x="216.67" y="400" font-size="11" text-anchor="middle">35/39</text>
+<text x="290.00" y="400" font-size="11" text-anchor="middle">40/44</text>
+<text x="363.33" y="400" font-size="11" text-anchor="middle">45/49</text>
+<text x="436.67" y="400" font-size="11" text-anchor="middle">50/54</text>
+<text x="510.00" y="400" font-size="11" text-anchor="middle">55/59</text>
+<text x="583.33" y="400" font-size="11" text-anchor="middle">60/64</text>
+<text x="656.67" y="400" font-size="11" text-anchor="middle">65/69</text>
+<text x="730.00" y="400" font-size="11" text-anchor="middle">70/74</text>
+<text x="380.00" y="416" font-size="12" text-anchor="middle" fill="#111827">Input lengths |A| / |B|</text>
+<text x="18" y="210.00" font-size="12" text-anchor="middle" transform="rotate(-90 18 210.00)" fill="#111827">Median runtime (ms)</text>
+</svg>
