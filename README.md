@@ -36,7 +36,7 @@ I used the 10 input files in `data/input/1.in` through `data/input/10.in`. Each 
 
 ### Runtime Results
 
-| File | |A| | |B| | Median runtime (ms) |
+| File | A length | B length | Median runtime (ms) |
 | --- | ---: | ---: | ---: |
 | 1.in | 25 | 29 | 0.1229 |
 | 2.in | 30 | 34 | 0.2136 |
